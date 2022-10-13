@@ -3,11 +3,13 @@ import java.util.Scanner;
 
 //Thought Questions
 //1. Uniformity, in case the user types in different caitalization and it's easier for the program to receive something
-//that is all in the same
-//2. The methods in gallows like makeBeam(), makeBase();, makeRope();
-//3. If sort is 
+//that is all formatted the same way.
+//2. The methods in gallows like makeBeam(), makeBase(), makeRope() and makeCenterPost() would be unnecessary so we would need to cut them out. 
+//3. They won't always have the same output because the first one is more likely to eliminate more lines. The second line only sorts(places
+//either in alphabetical or numerical order) after it takes out similar adjacent lines(uniq), so if there were lines that were the same
+//but just not next to each other at first, in the end, it would count them separately.
 //4.It's redundant to have it in gallows as well because the value doesn't change so for the sake
-//of efficieny and clarity it is better to have it in one place
+//of efficieny and clarity it is better to have it in one place.
 
 public class Hangman {
 	
