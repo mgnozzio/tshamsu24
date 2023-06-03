@@ -1,0 +1,9 @@
+509,Baker,US-Washington,Historical,3285
+511,Glacier Peak,US-Washington,Tephrochronology,3213
+513,Rainier,US-Washington,Dendrochronology,4392
+515,St. Helens,US-Washington,Historical,2549
+516,Adams,US-Washington,Tephrochronology,3742
+517,West Crater,US-Washington,Radiocarbon,1329
+518,Indian Heaven,US-Washington,Radiocarbon,1806
+519,Hood,US-Oregon,Historical,3426
+521,Jefferson,US-Oregon,Varve Count,3199
